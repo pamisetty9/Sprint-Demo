@@ -4,3 +4,5 @@ marking as commit
 and moving to repository
 This is main branch fifth line
 This is  main branch sixth line
+this is fifth line
+and sixth line for merge conflicts
