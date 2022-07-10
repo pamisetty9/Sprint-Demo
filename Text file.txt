@@ -1,1 +1,4 @@
 this is practise for gits
+This is 2nd line for merge
+conflicts to verify
+third and fourth lines
