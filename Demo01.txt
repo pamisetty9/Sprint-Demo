@@ -1,0 +1,4 @@
+This is the file upload from local folder
+to Repository
+This is pratcise to the data 
+from the git
