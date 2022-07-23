@@ -1,0 +1,2 @@
+this is dev1 component 
+development is done for dev1 user story
