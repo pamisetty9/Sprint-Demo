@@ -1,2 +1,2 @@
 this is dev1 component 
-development is done on dev1 user story
+development is done on dev1 user stofor
