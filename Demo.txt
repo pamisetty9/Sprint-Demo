@@ -5,4 +5,5 @@ and moving to repository
 This is main branch fifth line
 This is  main branch sixth line
 this is dev2 merbge conflitcts
+this is modified by dev1 to get merge conflicts
 and sixth line for merge conflicts
